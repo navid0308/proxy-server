@@ -1,2 +1,2 @@
 # proxy-server
-A java socket reads browser requests and fetches the byte stream using multi-threading.
+Wrote code for a java socket that reads browser requests and fetches the byte stream using multi-threading.
